@@ -1,6 +1,6 @@
 - 👋 Hi, I’m LaQuita @lajordan09
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning UX Design and Front End Development.
+- 👀 I’m interested in data analytics.
+- 🌱 I’m currently learning Microsoft Power BI Data Analytics, SQL, and Python.
 - 💞️ I’m open to collaboration.
 - 📫 How to reach me laquitaj901@gmail.com
 - 😄 Pronouns: she/her
