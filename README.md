@@ -9,7 +9,7 @@ I am a results-oriented professional with over 10 years of experience optimizing
 ### 🎓 **Education & Learning Journey**
 
   * 📊 **MS in Data Analytics**: Starting May 2026.
-  * 📜 **Certifications**: Lean Six Sigma Green & Yellow Belt, Certified Responsible AI Leader (CRAIL-CTM)[cite: 84, 90, 94].
+  * 📜 **Certifications**: Lean Six Sigma Green & Yellow Belt, Certified Responsible AI Leader (CRAIL-CTM).
   * 🛠️ **Current Tech Stack**:
       * **Heavily Focused on**: SQL (PostgreSQL/T-SQL).
       * **Learning**: Python, Microsoft Power BI, and Advanced Excel.
