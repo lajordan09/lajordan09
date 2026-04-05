@@ -25,7 +25,7 @@
 
   * 📧 **Email**: [laquita901@gmail.com](mailto:laquita901@gmail.com)
   * 💼 **LinkedIn**: [in/laquitajordan-memphis](https://www.google.com/search?q=https://www.linkedin.com/in/laquitajordan-memphis)
-  * [cite_start]🌐 **Portfolio**: [bold.pro/my/laquita-jordan](https://bold.pro/my/laquita-jordan) [cite: 13]
+  * 🌐 **Portfolio**: [bold.pro/my/laquita-jordan](https://bold.pro/my/laquita-jordan) [cite: 13]
   * ⚡ **Fun Fact**: I served in the Navy onboard the USS Nimitz\!
 <!---
 lajordan09/lajordan09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
