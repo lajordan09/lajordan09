@@ -19,7 +19,7 @@
   * ⚓ **US Navy Veteran**: Served 15 years as an Operations Specialist and Legalman[cite: 133, 134].
   * 🏫 **Education**: 2 years as a Special Education Teacher.
   * 🏠 **Real Estate**: 6 years as a licensed Real Estate Agent in Memphis, TN.
-  * [cite_start]🏗️ **Construction**: Project support and site coordination since 2021[cite: 25, 27].
+  * 🏗️ **Construction**: Project support and site coordination since 2021[cite: 25, 27].
 
 ### 🤝 **Let's Connect\!**
 
