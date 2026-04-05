@@ -1,4 +1,4 @@
-# 👋 Hi, I'm LaQuita (@lajordan09)
+# 👋🏾 Hi, I'm LaQuita (@lajordan09)
 
 ### 🚀 **Aspiring Data Analyst | Process Improvement Specialist | US Navy Veteran**
 
