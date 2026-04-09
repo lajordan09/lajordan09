@@ -17,7 +17,7 @@ I am a results-oriented professional with over 10 years of experience optimizing
 ### 🛠️ **Professional Background**
 
   * ⚓ **US Navy Veteran**: Served 15 years as an Operations Specialist and Legalman.
-  * 🏫 **Education**: 2 years as a Special Education Teacher.
+  * 🏫 **Education**: 5 years in Education. 2 years as a Special Education Teacher.
   * 🏠 **Real Estate**: 6 years as a licensed Real Estate Agent in Memphis, TN.
   * 🏗️ **Construction**: Project support and site coordination since 2021.
 
