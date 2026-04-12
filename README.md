@@ -12,7 +12,7 @@ I am a results-oriented professional with over 10 years of experience optimizing
   * 📜 **Certifications**: Lean Six Sigma Green & Yellow Belt, Certified Responsible AI Leader (CRAIL-CTM).
   * 🛠️ **Current Tech Stack**:
       * **Heavily Focused on**: SQL (PostgreSQL/T-SQL).
-      * **Learning**: Python, Microsoft Power BI, Tableau, Databricks and Advanced Excel.
+      * **Learning and building on**: Python, Microsoft Power BI, Tableau, Databricks, and Advanced Excel.
 
 ### 🛠️ **Professional Background**
 
