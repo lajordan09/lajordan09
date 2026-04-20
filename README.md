@@ -2,7 +2,11 @@
 
 ### 🚀 **Aspiring Data Analyst | Process Improvement Specialist | US Navy Veteran**
 
-I am a results-oriented professional with over 10 years of experience optimizing complex workflows in legal, real estate, healthcare, education, military, and construction environments. I am currently pivoting into **Data Analytics** to leverage my background in process standardization and compliance for data-driven decision-making.
+I am a results-driven professional with over 10 years of experience supporting complex workflows across legal, real estate, healthcare, education, military, and construction environments.
+
+I specialize in process improvement, compliance, and structured data workflows, with a strong focus on accuracy and operational efficiency.
+
+I am currently building technical skills in IBM z/OS, COBOL, and mainframe systems as I transition into data and enterprise computing roles. My goal is to leverage my background in process-driven environments to support large-scale, data-intensive systems.
 
 -----
 
