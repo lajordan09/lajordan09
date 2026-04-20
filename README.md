@@ -1,6 +1,6 @@
 # 👋🏾 Hi, I'm LaQuita (@lajordan09)
 
-### 🚀 **Aspiring Data Analyst | Process Improvement Specialist | US Navy Veteran**
+### 🚀 **Aspiring System Administrator | Database Administrator | Process Improvement Specialist | US Navy Veteran**
 
 I am a results-driven professional with over 10 years of experience supporting complex workflows across legal, real estate, healthcare, education, military, and construction environments.
 
