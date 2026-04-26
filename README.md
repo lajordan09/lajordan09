@@ -6,7 +6,7 @@ I am a results-driven professional with over 10 years of experience supporting c
 
 I specialize in process improvement, compliance, and structured data workflows, with a strong focus on accuracy and operational efficiency.
 
-I am currently building technical skills in IBM z/OS, COBOL, and mainframe systems as I transition into data and enterprise computing roles. My goal is to leverage my background in process-driven environments to support large-scale, data-intensive systems.
+I am currently building technical skills in IBM z/OS, UNIX, SQL, Python, COBOL, and mainframe systems as I transition into data and enterprise computing roles. My goal is to leverage my background in process-driven environments to support large-scale, data-intensive systems.
 
 -----
 
