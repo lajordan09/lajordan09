@@ -1,6 +1,6 @@
 # 👋🏾 Hi, I'm LaQuita (@lajordan09)
 
-### 🚀 **Aspiring System Administrator | Process Improvement Specialist | US Navy Veteran**
+### 🚀 **Aspiring Mainframe System Programmer | Process Improvement Specialist | US Navy Veteran**
 
 I am a results-driven professional with over 10 years of experience supporting complex workflows across legal, real estate, healthcare, education, military, and construction environments.
 
@@ -17,6 +17,7 @@ I am currently building technical skills in IBM z/OS, UNIX, SQL, Python, COBOL, 
   * 🛠️ **Current Tech Stack**:
       * **Heavily Focused on**: SQL (PostgreSQL/T-SQL), z/OS, Mainframes, Infrastructure Architecture, IBM Cloud.
       * **Learning and building on**: COBOL, JCL, Python, Microsoft Power BI, Tableau, Databricks, and Advanced Excel.
+      * **Certifications underway in the following order: Tech+, Security+.
 
 ### 🛠️ **Professional Background**
 
