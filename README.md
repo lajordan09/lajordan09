@@ -15,9 +15,8 @@ I am currently building technical skills in IBM z/OS, UNIX, SQL, Python, COBOL, 
   * 📊 **MS in Data Analytics**: Starting May 2026.
   * 📜 **Certifications**: Lean Six Sigma Green & Yellow Belt, Certified Responsible AI Leader (CRAIL-CTM).
   * 🛠️ **Current Tech Stack**:
-      * **Heavily Focused on**: SQL (PostgreSQL/T-SQL), z/OS, Mainframes, Infrastructure Architecture, IBM Cloud.
+      * **Heavily Focused on**: SQL (PostgreSQL/T-SQL), z/OS, Mainframes, Infrastructure Architecture, IBM Cloud, CompTIA Tech+, and Security+.
       * **Learning and building on**: COBOL, JCL, Python, Microsoft Power BI, Tableau, Databricks, and Advanced Excel.
-      * **Certifications underway in the following order: Tech+, Security+.
 
 ### 🛠️ **Professional Background**
 
