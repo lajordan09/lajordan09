@@ -23,7 +23,6 @@ I am currently building technical skills in IBM z/OS, UNIX, SQL, Python, COBOL, 
   * ⚓ **US Navy Veteran**: Served 15 years as an Operations Specialist and Legalman.
   * 🏫 **Education**: 5 years in Education. 2 years as a Special Education Teacher.
   * 🏠 **Real Estate**: 6 years as a licensed Real Estate Agent in Memphis, TN.
-  * 🏗️ **Construction**: Project support and site coordination since 2021.
 
 ### 🤝 **Let's Connect\!**
 
@@ -32,6 +31,5 @@ I am currently building technical skills in IBM z/OS, UNIX, SQL, Python, COBOL, 
   * 🌐 **Portfolio**: [bold.pro/my/laquita-jordan](https://bold.pro/my/laquita-jordan)
   * ⚡ **Fun Fact**: I served in the Navy onboard the USS Nimitz\!
 <!---
-lajordan09/lajordan09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
