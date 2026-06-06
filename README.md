@@ -20,7 +20,7 @@ I am building a strong technical foundation in Python, SQL, IBM z/OS, and data a
 ## 🛠️ Technical Skills
 
 ### Languages and Tools  
-Python • SQL • HTML • CSS • Git and GitHub • Jupyter • Power BI • Excel (Advanced)
+Python • SQL • HTML • CSS • Git and GitHub • Jupyter Notebooks • Google Colab • Power BI • Excel (Advanced)
 
 ### Mainframe and Enterprise Technology  
 IBM z/OS • JCL • COBOL (learning) • VS Code • IBM Cloud
