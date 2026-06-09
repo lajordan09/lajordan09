@@ -1,3 +1,4 @@
+```
 # 🛠️ Cross-Functional Job Simulations
 
 Welcome to my Job Simulations index. The projects detailed below are designed to replicate real-world enterprise scenarios. Instead of isolating technical skills, these simulations intentionally synthesize **systems administration, data analytics, database management, and structured project workflows** into cohesive, end-to-end solutions.
@@ -23,3 +24,4 @@ Welcome to my Job Simulations index. The projects detailed below are designed to
   * **Automated Quality Assurance:** Executed and analyzed automated frontend rendering tests to guarantee interface stability, cross-browser consistency, and strict component integrity.
 * **[View Code & Deliverables ➔](./skyscanner-front-end)**
 ---
+```
