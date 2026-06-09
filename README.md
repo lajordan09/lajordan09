@@ -65,14 +65,15 @@ My background reflects discipline, analytical thinking, and a natural inclinatio
 ## 🌱 What Motivates Me
 I am driven by curiosity, resilience, and the belief that technology should empower people and improve systems.  
 I began teaching myself HTML and CSS early in life, and that early curiosity grew into a long-term interest in technology that continues to guide my career path today.  
-I am open to opportunities across data analytics, AI engineering, mainframe systems, and technical operations. I am looking for roles where I can learn, contribute, and grow while building a long-term career in technology.
+I am open to opportunities across data analytics, AI engineering, mainframe systems, web application developer and technical operations. I am looking for roles where I can learn, contribute, and grow while building a long-term career in technology.
 
 ---
 
 ## 📂 Featured Work Coming Summer 2026
 - Python mini projects  
 - SQL practice sets  
-- Data analytics case studies  
+- Data analytics case studies
+- Comprehensive Job Simulations (Full-Lifecycle Problem Solving) 
 - AI engineering experiments  
 - Mainframe learning logs  
 
