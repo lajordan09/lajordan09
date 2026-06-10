@@ -6,7 +6,7 @@ This project was completed as part of the **Forage Data Analytics Job Simulation
 The task involved analyzing a supermarket transaction dataset to extract insights about customer purchasing behavior and store performance.
 
 ## 🎯 Objectives
-- Explore and clean the `supermarket_transaction.csv` dataset.
+- Explore and clean the `supermarket_transaction.xlxs` dataset.
 - Identify trends in product categories, payment methods, and customer spending.
 - Create summary tables and visualizations to support data-driven insights.
 
@@ -21,8 +21,8 @@ The task involved analyzing a supermarket transaction dataset to extract insight
 - Customer behavior trends by time and location  
 
 ## 📁 Files in This Repository
-- `raw_data.csv` – original dataset  
-- `supermarket_transaction_cleaned.csv` – cleaned dataset  
+- `raw_data.xlxs` – original dataset  
+- `supermarket_transaction_cleaned.xlxs` – cleaned dataset  
 - `analysis.ipynb` – Python notebook  
 - `README.md` – project documentation  
 
