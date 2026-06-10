@@ -1,35 +1,30 @@
-# Supermarket Transactions Analysis  
-### Forage – Data Analytics Job Simulation
+# Commonwealth Bank – Data Aggregation and Analysis  
+### Forage Job Simulation
 
-## 📌 Overview
-This project was completed as part of the **Forage Data Analytics Job Simulation**.  
-The task involved analyzing a supermarket transaction dataset to extract insights about customer purchasing behavior and store performance.
+## 📊 Overview
+This project was completed as part of the **Commonwealth Bank Data Analytics Virtual Experience** on Forage.  
+The task involved analyzing supermarket transaction data to extract insights for InsightSpark’s data science team.
 
 ## 🎯 Objectives
-- Explore and clean the `supermarket_transaction.xlxs` dataset.
-- Identify trends in product categories, payment methods, and customer spending.
-- Create summary tables and visualizations to support data-driven insights.
+- Aggregate and analyze the `supermarket_transaction.xlxs` dataset using **Google Sheets**.  
+- Answer key business questions:
+  - How many apples were purchased in cash?
+  - How much total cash was spent on apples?
+  - How much money was spent at the Bakershire store by non‑member customers?
+- Visualize results using **Tableau** dashboards.
 
-## 🛠 Tools Used
-- **Excel** – data cleaning, filtering, pivot tables  
-- **Python (pandas, matplotlib, seaborn)** – analysis and visualizations  
-- **Power BI** – optional dashboarding  
+## 🛠 Tools & Techniques
+- **Google Sheets** – data cleaning, aggregation, and formula documentation  
+- **Tableau** – interactive visualization and trend analysis  
+- **Data Filtering & Pivot Tables** – for summarizing store‑level insights  
 
-## 📈 Key Insights
-- Spending patterns across product categories  
-- Popular payment methods  
-- Customer behavior trends by time and location  
+## 📈 Key Insights
+- Apples purchased in cash varied significantly by location.  
+- Bakershire store showed strong non‑member spending trends.  
+- Visualization revealed clear correlations between payment methods and product categories.
 
-## 📁 Files in This Repository
-- `raw_data.xlxs` – original dataset  
-- `supermarket_transaction_cleaned.xlxs` – cleaned dataset  
-- `analysis.ipynb` – Python notebook  
-- `README.md` – project documentation  
-
-## 🧠 Skills Demonstrated
-- Data cleaning and preparation  
-- Exploratory data analysis (EDA)  
-- Visualization and insight communication  
-- Excel and Python proficiency  
-
-
+## 🧠 Skills Demonstrated
+- Data aggregation and filtering  
+- Spreadsheet formulas and documentation  
+- Tableau dashboard design  
+- Business insight communication  
