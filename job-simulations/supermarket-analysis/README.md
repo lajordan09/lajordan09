@@ -29,7 +29,6 @@ This project demonstrates **data cleaning**, **aggregation**, and **visualizatio
 
 ## 🛠 Tools & Techniques
 - **Google Sheets** – data cleaning, aggregation, and formula documentation  
-- **Tableau** – interactive visualization and trend analysis  
 - **Data Filtering & Pivot Tables** – summarizing store‑level insights  
 
 ---
@@ -44,5 +43,4 @@ This project demonstrates **data cleaning**, **aggregation**, and **visualizatio
 ## 🧠 Skills Demonstrated
 - Data aggregation and filtering  
 - Spreadsheet formulas and documentation  
-- Tableau dashboard design  
 - Business insight communication
