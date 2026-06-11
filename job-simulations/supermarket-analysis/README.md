@@ -6,7 +6,7 @@ This project was completed as part of the **Commonwealth Bank Data Analytics Vir
 The task involved analyzing supermarket transaction data to extract insights for InsightSpark’s data science team.
 
 ## 🎯 Objectives
-- Aggregate and analyze the `supermarket_transaction.xlxs` dataset using **Google Sheets**.  
+- Aggregate and analyze the `supermarket_transaction.csv` dataset using **Google Sheets**.  
 - Answer key business questions:
   - How many apples were purchased in cash?
   - How much total cash was spent on apples?
