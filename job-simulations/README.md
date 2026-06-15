@@ -1,7 +1,6 @@
-```
 # 🛠️ Cross-Functional Job Simulations
 
-Welcome to my Job Simulations index. The projects detailed below are designed to replicate real-world enterprise scenarios. Instead of isolating technical skills, these simulations intentionally synthesize **systems administration, data analytics, database management, and structured project workflows** into cohesive, end-to-end solutions.
+> Welcome to my Job Simulations index. The projects detailed below are designed to replicate real-world enterprise scenarios. Instead of isolating technical skills, these simulations intentionally synthesize **systems administration, data analytics, database management, and structured project workflows** into cohesive, end-to-end solutions.
 
 ---
 
@@ -16,12 +15,15 @@ Welcome to my Job Simulations index. The projects detailed below are designed to
 ## 📂 Featured Simulations
 
 ### ✈️ Simulation 1: Skyscanner Front-End Software Engineering
-* **Scenario:** Simulating real-world software engineering workflows within an international travel platform's front-end architecture to construct and validate responsive user interfaces.
-* **The Stack:** React.js | JavaScript (ES6+) | Backpack Design System | Automated UI Testing
-* **Key Deliverables:**
-  * **Component Engineering & Customization:** Engineered a dynamic, interactive web page feature utilizing React to streamline user date-selection workflows.
-  * **Enterprise Design System Integration:** Integrated and customized Skyscanner's proprietary open-source UI library, **Backpack**, adhering to strict brand compliance guidelines and component reusability patterns.
-  * **Automated Quality Assurance:** Executed and analyzed automated frontend rendering tests to guarantee interface stability, cross-browser consistency, and strict component integrity.
-* **[View Code & Deliverables ➔](./skyscanner-front-end)**
----
-```
+
+**Scenario:** Simulating real-world software engineering workflows within an international travel platform's front-end architecture to construct and validate responsive user interfaces.
+
+**The Stack:** `React.js` | `JavaScript (ES6+)` | `Backpack Design System` | `Automated UI Testing`
+
+**Key Deliverables:**
+
+| Focus Area | Implementation Details |
+| --- | --- |
+| **Component Engineering** | Engineered a dynamic, interactive web page feature utilizing React to streamline user date-selection workflows. |
+| **Enterprise Integration** | Integrated and customized Skyscanner's proprietary open-source UI library, **Backpack**, adhering to strict brand compliance guidelines and component reusability patterns. |
+| **Automated QA** | Executed and analyzed automated frontend rendering tests to guarantee interface stability, cross-browser consistency, and strict component integrity. |
