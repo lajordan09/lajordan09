@@ -216,7 +216,20 @@ Explore advanced quality control techniques:
 * Data Annotation Frameworks
 
 ---
+```
+## Python Annotation Workflow Enhancement
 
+To extend the original simulation, I developed a Python-based annotation workflow that allows users to:
+
+- Classify customer messages by intent
+- Assign sentiment labels
+- Flag PII
+- Export labeled datasets
+- Perform quality assurance reviews
+
+This enhancement demonstrates how manual labeling processes can be translated into repeatable data operations workflows.
+```
+---
 ## Author
 
 **LaQuita Jordan**
