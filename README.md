@@ -1,6 +1,6 @@
 # 👋🏾 Hi, I'm LaQuita
 
-**Enterprise Technology Learner • Mainframe Systems Enthusiast • Data Analytics Graduate Student • AI Engineering Explorer • U.S. Navy Veteran**
+**Enterprise Technology Learner • IBM z/OS Mainframe Practitioner • Data Analytics Graduate Student • AI Engineering Explorer • U.S. Navy Veteran**
 
 I am a technology-driven professional with a background in operations, legal support, education, real estate, and process improvement. My career has always involved complex systems, structured environments, and mission-critical decision-making. Today, I am channeling that experience into a focused transition toward enterprise technology, data analytics, and AI engineering.
 
