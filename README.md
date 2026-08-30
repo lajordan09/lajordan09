@@ -1,33 +1,124 @@
-# 👋🏾 Hi, I'm LaQuita
+# 👋 Hi, I'm LaQuita Jordan
 
-**Enterprise Technology Learner • IBM z/OS Mainframe Practitioner • Data Analytics Graduate Student • AI Engineering Explorer • U.S. Navy Veteran**
+### Real Estate Professional | Data Analytics Graduate Student | Real Estate Market Intelligence
 
-I am a technology-driven professional with a background in operations, legal support, education, real estate, and process improvement. My career has always involved complex systems, structured environments, and mission-critical decision-making. Today, I am channeling that experience into a focused transition toward enterprise technology, data analytics, and AI engineering.
+📍 Memphis, Tennessee
 
-I am building a strong technical foundation in Python, SQL, IBM z/OS, and data analytics while developing hands-on projects that explore automation, AI workflows, and large-scale system operations. My long-term goal is to become a versatile technology professional who can work across data, systems, and AI with confidence and adaptability.
+I am a **Residential Real Estate Professional and Data Analytics Graduate Student** focused on using data to better understand real estate markets, investment activity, pricing patterns, and property characteristics.
+
+My work sits at the intersection of:
+
+**🏠 Real Estate + 📊 Data Analytics + 📈 Market Intelligence + 💻 Technology**
+
+I am building practical analytics projects that turn real estate data into clear, actionable insights for real estate professionals, investors, and other decision-makers.
 
 ---
 
-## 🚀 Technical Focus Areas
-- Python programming, SQL development, and data analytics  
-- IBM z/OS fundamentals, JCL, and mainframe ecosystem concepts  
-- AI engineering basics, automation workflows, and model experimentation  
-- Enterprise systems thinking and large-scale operational problem solving  
-- Building real projects that demonstrate learning, curiosity, and technical growth  
+## 🎯 Professional Focus
+
+My current focus is developing the skills to analyze real estate markets through data.
+
+### Areas of Interest
+
+- 🏠 Residential Real Estate Analytics
+- 📊 Real Estate Market Analysis
+- 📈 Investor & Buyer Behavior
+- 💰 Property Pricing Analysis
+- 📍 Geographic & ZIP Code Analysis
+- 🧮 Property & Transaction Analytics
+- 🤖 PropTech & Real Estate Technology
+- 📊 Business Intelligence & Data Visualization
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Languages and Tools  
-Python • SQL • HTML • CSS • Git and GitHub • Jupyter Notebooks • Google Colab • Power BI • Excel (Advanced)
+### Data & Analytics
 
-### Mainframe and Enterprise Technology  
-IBM z/OS • JCL • COBOL (learning) • VS Code • IBM Cloud
+- Python
+- SQL
+- Microsoft Excel
+- PivotTables & PivotCharts
+- Data Cleaning & Analysis
+- Data Visualization
+- Descriptive Analytics
+- Business Intelligence
 
-### AI and Data Interests  
-AI Engineering • Data pipelines • Automation • Model deployment fundamentals
+### Tools & Platforms
 
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
+- Power BI
+- Microsoft Excel
+
+### Technology
+
+- AI Engineering Fundamentals
+- Automation Workflows
+- Data Pipelines
+- Enterprise Technology
+- IBM z/OS Fundamentals
+- JCL
+- COBOL (Learning)
+
+---
+
+## 🏠 Real Estate + Data Analytics Portfolio
+
+### Memphis Investor Market Analysis
+
+An exploratory real estate analytics project examining investor purchasing patterns across selected Memphis, Tennessee ZIP codes using a synthetic residential transaction dataset.
+
+**Analysis includes:**
+
+- Investor vs. owner-occupant purchasing activity
+- Investor purchase volume by ZIP code
+- Average investor purchase price
+- Average investor price per square foot
+- Property size characteristics
+- Bedrooms
+- Year built
+- Geographic patterns
+
+📊 **Tools:** Microsoft Excel, PivotTables, PivotCharts, Data Analysis
+
+🔗 [View the Memphis Investor Market Analysis](https://github.com/lajordan09/memphis-investor-market-analysis)
+
+> **Data Note:** The project uses a synthetic dataset created for educational and portfolio purposes. It does not represent actual MLS or public-record data.
+
+---
+
+## 📚 Current Learning & Development
+
+I am continuing to build my technical foundation in:
+
+- Python for data analysis
+- SQL
+- Real estate analytics
+- Data visualization
+- Business intelligence
+- AI engineering
+- Automation
+- Enterprise technology
+
+My goal is to combine **real-world real estate experience with analytical and technical skills** to solve practical business problems.
+
+---
+
+## 💼 Professional Background
+
+- 🏠 Licensed Real Estate Professional
+- ⚓ U.S. Navy Veteran
+- 📊 Data Analytics Graduate Student
+- 💻 Enterprise Technology Learner
+- ⚙️ Operations & Process Improvement Experience
+- ⚖️ Legal & Compliance Experience
+
+My professional background has developed strengths in **analysis, operations, client service, documentation, problem solving, and process improvement**.
+
+I am now applying those strengths to the intersection of **real estate, data, and technology**.
 ---
 
 ## 🧩 Tech Stack Badges
@@ -45,41 +136,45 @@ AI Engineering • Data pipelines • Automation • Model deployment fundamenta
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### Mainframe and Enterprise  
-![IBM z/OS](https://img.shields.io/badge/IBM_z%2FOS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)  
-![COBOL](https://img.shields.io/badge/COBOL-00427E?style=for-the-badge&logo=gnu&logoColor=white)
+---
+
+## 🌱 What I'm Building
+
+My portfolio is focused on practical projects that demonstrate how data can support better decisions in real estate and business.
+
+Upcoming areas of exploration include:
+
+- Real estate market dashboards
+- Property pricing analysis
+- Investor behavior analysis
+- Geographic market comparisons
+- SQL real estate datasets
+- Python real estate analytics
+- Power BI dashboards
+- PropTech applications
+- AI-assisted real estate workflows
 
 ---
 
-## 💼 Professional Background
-- U.S. Navy Veteran with experience as an Operations Specialist and Legalman  
-- Specialized as a GCCS Operator (Global Command and Control System) supporting mission-critical operations  
-- Special Education instructor with a focus on data-informed learning support  
-- Licensed Real Estate Agent with experience in contracts, negotiation, and client management  
-- Process improvement professional with strengths in workflow optimization, compliance, and cross-functional operations  
+## 🔗 Connect With Me
 
-My background reflects discipline, analytical thinking, and a natural inclination toward technology. I have always worked in environments where accuracy, systems awareness, and rapid learning were essential.
+📧 **Email:** laquita901@gmail.com
 
----
+💼 **LinkedIn:** https://www.linkedin.com/in/laquitajordan-memphis/
 
-## 🌱 What Motivates Me
-I am driven by curiosity, resilience, and the belief that technology should empower people and improve systems.  
-I began teaching myself HTML and CSS early in life, and that early curiosity grew into a long-term interest in technology that continues to guide my career path today.  
-I am open to opportunities across data analytics, AI engineering, mainframe systems, web application developer and technical operations. I am looking for roles where I can learn, contribute, and grow while building a long-term career in technology.
+🌐 **Portfolio:** https://bold.pro/my/laquita-jordan
 
 ---
 
-## 📂 Featured Work Coming Summer 2026
-- Python mini projects  
-- SQL practice sets  
-- Data analytics case studies
-- Comprehensive Job Simulations (Full-Lifecycle Problem Solving) 
-- AI engineering experiments  
-- Mainframe learning logs  
+## 🚀 Career Direction
+
+I am interested in opportunities where **real estate, data analytics, business intelligence, and technology** come together.
+
+I am particularly interested in developing solutions that help organizations:
+
+**Understand the market → Analyze the data → Identify patterns → Make better decisions.**
 
 ---
 
-## 🤝 Connect With Me
-**Email:** laquita901@gmail.com  
-**LinkedIn:** linkedin.com/in/laquitajordan-memphis  
-**Portfolio:** bold.pro/my/laquita-jordan  
+⭐ Thanks for visiting my profile!
+
