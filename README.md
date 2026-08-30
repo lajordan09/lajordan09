@@ -1,4 +1,4 @@
-# 👋 Hi, I'm LaQuita Jordan
+#  Hi, I'm LaQuita Jordan
 
 ### Real Estate Professional | Data Analytics Graduate Student | Real Estate Market Intelligence
 
