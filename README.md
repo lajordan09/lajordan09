@@ -33,35 +33,29 @@ My current focus is developing the skills to analyze real estate markets through
 
 ## 🛠️ Technical Skills
 
-### Data & Analytics
-
+### 📊 Data Analytics
 - Python
 - SQL
 - Microsoft Excel
-- PivotTables & PivotCharts
-- Data Cleaning & Analysis
+- Data Cleaning & Transformation
+- Descriptive & Exploratory Data Analysis
 - Data Visualization
-- Descriptive Analytics
 - Business Intelligence
 
-### Tools & Platforms
-
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
+### 📈 Analytics Tools & Platforms
+- Excel PivotTables & PivotCharts
 - Power BI
-- Microsoft Excel
+- Jupyter Notebook
+- Git & GitHub
+- VS Code
 
-### Technology
-
-- AI Engineering Fundamentals
-- Automation Workflows
-- Data Pipelines
-- Enterprise Technology
-- IBM z/OS Fundamentals
-- JCL
-- COBOL (Learning)
+### 🏠 Real Estate Analytics
+- Residential Market Analysis
+- Investor & Buyer Behavior Analysis
+- Property Pricing Analysis
+- ZIP Code & Geographic Analysis
+- Real Estate Data Visualization
+- Transaction & Property Analytics
 
 ---
 
@@ -92,33 +86,40 @@ An exploratory real estate analytics project examining investor purchasing patte
 
 ## 📚 Current Learning & Development
 
-I am continuing to build my technical foundation in:
+I am continuing to advance my technical and analytical skills while building deeper expertise at the intersection of **data analytics, business intelligence, and real estate**.
 
-- Python for data analysis
-- SQL
-- Real estate analytics
-- Data visualization
-- Business intelligence
-- AI engineering
-- Automation
-- Enterprise technology
+### 🎓 Advanced Analytics Development
 
-My goal is to combine **real-world real estate experience with analytical and technical skills** to solve practical business problems.
+- Advancing skills in Python, SQL, and Microsoft Excel
+- Building stronger capabilities in data cleaning, analysis, and visualization
+- Developing business intelligence and dashboarding skills
+- Expanding analytical problem-solving and data-driven decision-making
+- Upcoming coursework: **Data Science for Business**
+
+### 🏠 Real Estate Analytics & Investment
+
+- Commercial real estate financial modeling
+- Real estate investment analysis
+- Property valuation and investment metrics
+- Real estate financial analysis and modeling
+- Market and transaction analysis
+- Applying data analytics to real estate investment decisions
+
+My current focus is developing the technical depth to analyze business and real estate data while strengthening the financial modeling skills needed to evaluate real-world investment opportunities.
 
 ---
-
 ## 💼 Professional Background
 
 - 🏠 Licensed Real Estate Professional
-- ⚓ U.S. Navy Veteran
 - 📊 Data Analytics Graduate Student
-- 💻 Enterprise Technology Learner
-- ⚙️ Operations & Process Improvement Experience
+- ⚓ U.S. Navy Veteran
+- ⚙️ Operations & Process Improvement Professional
 - ⚖️ Legal & Compliance Experience
+- 💻 Enterprise Technology & Systems Experience
 
-My professional background has developed strengths in **analysis, operations, client service, documentation, problem solving, and process improvement**.
+My professional background spans **real estate, data analytics, operations, legal support, and enterprise environments**, giving me a strong foundation in **analysis, problem solving, documentation, client service, process improvement, and data-driven decision-making**.
 
-I am now applying those strengths to the intersection of **real estate, data, and technology**.
+I am now bringing these experiences together at the intersection of **real estate, data analytics, and technology**, with a growing focus on **real estate investment analysis, financial modeling, and business intelligence**.
 ---
 
 ## 🧩 Tech Stack Badges
