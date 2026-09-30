@@ -119,7 +119,6 @@ My current focus is developing the technical depth to analyze business and real 
 
 My professional background spans real estate, data analytics, operations, legal support, and enterprise environments, giving me a strong foundation in analysis, problem solving, documentation, client service, process improvement, and data-driven decision-making.
 
-## I am now bringing these experiences together at the intersection of real estate, data analytics, and technology, with a growing focus on real estate investment analysis, financial modeling, and business intelligence.
 ---
 
 ## 🧩 Tech Stack Badges
