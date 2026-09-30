@@ -4,7 +4,7 @@
 
 📍 Memphis, Tennessee
 
-I am a **Residential Real Estate Professional and Data Analytics Graduate Student** focused on using data to better understand real estate markets, investment activity, pricing patterns, and property characteristics.
+I am a Residential Real Estate Professional and Data Analytics Graduate Student focused on using data to better understand real estate markets, investment activity, pricing patterns, and property characteristics.
 
 My work sits at the intersection of:
 
